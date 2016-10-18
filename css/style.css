@@ -1,0 +1,48 @@
+.container {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/08/Yasukuni_Shrine_201005.jpg");
+  width: 100%;
+  height: 1000px;
+  background-size: cover;
+}
+
+.jumbotron {
+  margin-top: 50px;
+  opacity: 0.9;
+  text-align:center;
+}
+#funaImg, #funaImg a{
+  font-size:0.15em;
+}
+#backImg, #backImg a{
+  font-size:0.8em;
+  color:#ffffff;
+  text-align:center;
+  opacity:0.8;
+}
+.panel {
+  margin-top:20px;
+
+}
+#life{
+  margin-left:15px;
+  margin-right:15px;
+}
+.bg-warning{
+  padding:10px;
+}
+#publi{
+  margin-top:-5px;
+  opacity:0.8;
+  background-color:#337ab7;
+  color:#ffffff;
+  text-align:left;
+}
+.quote{
+  margin-top:20px;
+  margin-left:80px;
+  border-left:5px solid #337ab7;
+}
+#footer{
+  margin-top:20px;
+  color:#888888;
+}
